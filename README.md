@@ -31,7 +31,7 @@ Step 1: Start.
 
 Step 2: Create three sets representing elective subjects chosen by three students.
 
-Step 3: Use the set intersection operation to find common subjects chosen by all students.
+Step 3: Use the set intersection operation to find common subjects chosen by all students.(&)
 
 Step 4: Display the common elective subjects.
 
